@@ -1,6 +1,29 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+
 <html style="background:#fff url(bananahuge.gif) repeat 0 0;background-size:40px auto;">
 <head>
   <title>Sobrinho Manifesto</title>
+  <script type="text/javascript">
+  //<![CDATA[
+  /* ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  Disable context menu on images by GreenLava (BloggerSentral.com)
+  Version 1.0
+  You are free to copy and share this code but please do not remove this credit notice.
+  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ */
+  function nocontext(e) {
+      var clickedTag = (e==null) ? event.srcElement.tagName : e.target.tagName;
+      if (clickedTag == "IMG") {
+          alert(alertMsg);
+          return false;
+      }
+    }
+  var alertMsg = "Image context menu is disabled";
+  document.oncontextmenu = nocontext;
+  //]]>
+  </script>
 </head>
 <body>
   <div style="margin:0 auto; width:800px;font-family: comic sans ms">
@@ -58,4 +81,7 @@
     <br><br> <pre style="font-size:20px;">/></pre>
   </div>
 </body>
+<script type="text/javascript">
+  document.write("<no"+"script>Por favor, ative o javascript da pagina!</noscript>");
+</script>
 </html>
