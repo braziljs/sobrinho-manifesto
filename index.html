@@ -14,13 +14,13 @@
   You are free to copy and share this code but please do not remove this credit notice.
   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ */
   function nocontext(e) {
-      var clickedTag = (e==null) ? event.srcElement.tagName : e.target.tagName;
-      if (clickedTag == "IMG") {
-          alert(alertMsg);
+      //var clickedTag = (e==null) ? event.srcElement.tagName : e.target.tagName;
+      //if (clickedTag == "IMG")
+          {alert(alertMsg);
           return false;
       }
     }
-  var alertMsg = "Image context menu is disabled";
+  var alertMsg = "Protegido contra hackers e curiosos";
   document.oncontextmenu = nocontext;
   //]]>
   </script>
