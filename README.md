@@ -7,3 +7,4 @@ Uma homenagem da [BrazilJS Foundation](http://www.facebook.com/braziljs?group_id
 * http://roverinformatica.com.br/
 * http://www.jataxi.com/
 * http://www.desentupidorarolabosta.com.br/
+* http://www.hammers.com.br/
