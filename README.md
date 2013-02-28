@@ -15,3 +15,4 @@ Uma homenagem da [BrazilJS Foundation](http://www.facebook.com/braziljs?group_id
 * http://www.hammers.com.br/
 * http://www.worlds-worst-website.com/
 * http://www.viacaofeitoria.hd1.com.br/
+* http://www.disktudospbrasil.com/e6251a50-e723-4665-aee4-e3e15130e16b.aspx
