@@ -17,3 +17,8 @@ Uma homenagem da [BrazilJS Foundation](http://www.facebook.com/braziljs?group_id
 * http://www.viacaofeitoria.hd1.com.br/
 * http://www.disktudospbrasil.com/e6251a50-e723-4665-aee4-e3e15130e16b.aspx
 * http://autoescolamillennium.com.br/
+* http://www.dokimos.org/ajff/
+* http://www.2atoms.com/comedy/worstoftheweb/blount.htm
+* http://www.ingenfeld.de/
+* http://tidinha.zip.net/
+* http://willito.com/
