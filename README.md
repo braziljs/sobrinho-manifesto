@@ -19,3 +19,8 @@ Uma homenagem da [BrazilJS Foundation](http://www.facebook.com/braziljs?group_id
 * http://autoescolamillennium.com.br/
 * http://aquarela.com/
 * http://www.alfasacolas.com.br/
+* http://www.dokimos.org/ajff/
+* http://www.2atoms.com/comedy/worstoftheweb/blount.htm
+* http://www.ingenfeld.de/
+* http://tidinha.zip.net/
+* http://willito.com/
