@@ -335,6 +335,50 @@
   })();
 
 </script>
+
+
+<!--        Script by hscripts.com          -->
+<!--        copyright of HIOX INDIA         -->
+<!-- more scripts @ http://www.hscripts.com -->
+<script type="text/javascript">
+var rev = "fwd";
+function titlebar(val)
+{
+  var msg  = ".: Sobrinho Manifesto :.";
+  var res = " ";
+  var speed = 100;
+  var pos = val;
+
+  var le = msg.length;
+  if(rev == "fwd"){
+    if(pos < le){
+    pos = pos+1;
+    scroll = msg.substr(0,pos);
+    document.title = scroll;
+    timer = window.setTimeout("titlebar("+pos+")",speed);
+    }
+    else{
+    rev = "bwd";
+    timer = window.setTimeout("titlebar("+pos+")",speed);
+    }
+  }
+  else{
+    if(pos > 0){
+    pos = pos-1;
+    var ale = le-pos;
+    scrol = msg.substr(ale,le);
+    document.title = scrol;
+    timer = window.setTimeout("titlebar("+pos+")",speed);
+    }
+    else{
+    rev = "fwd";
+    timer = window.setTimeout("titlebar("+pos+")",speed);
+    } 
+  }
+}
+
+titlebar(0);
+</script> <!--   Script by hscripts.com     -->
 </head>
 <body BACKGROUND="banana.gif" bgcolor="#FFFFFF" ondragstart="return false" onselectstart="return false" onLoad="alert('Bem-vindo ao Sobrinho Manifesto\r\rUma parceria de:\r\rSobrinho Webdesigner & BrazilJS Foundation\r\rNão esqueça de seguir a gente no orkut, no twitter e no facebook!')">
 <object data="mahna.mid" type="application/x-mplayer2" width="0" height="0">
