@@ -24,3 +24,4 @@ Uma homenagem da [BrazilJS Foundation](http://www.facebook.com/braziljs?group_id
 * http://www.ingenfeld.de/
 * http://tidinha.zip.net/
 * http://willito.com/
+* http://bandabrittanica.com/
