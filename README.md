@@ -25,3 +25,4 @@ Uma homenagem da [BrazilJS Foundation](http://www.facebook.com/braziljs?group_id
 * http://tidinha.zip.net/
 * http://willito.com/
 * http://bandabrittanica.com/
+* http://www.lingscars.com/
