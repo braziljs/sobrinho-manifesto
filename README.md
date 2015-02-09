@@ -26,3 +26,4 @@ Uma homenagem da [BrazilJS Foundation](http://www.facebook.com/braziljs?group_id
 * http://willito.com/
 * http://bandabrittanica.com/
 * http://www.lingscars.com/
+* http://www.verinha2.de/german/index.htm
