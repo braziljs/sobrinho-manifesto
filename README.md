@@ -29,3 +29,4 @@ Uma homenagem da [BrazilJS Foundation](http://www.facebook.com/braziljs?group_id
 * http://www.verinha2.de/german/index.htm
 * http://www.artisnobilis.com/
 * http://barserafim.com.br/
+* http://www.cameronsworld.net/
