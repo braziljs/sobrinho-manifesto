@@ -31,3 +31,4 @@ Uma homenagem da [BrazilJS Foundation](http://www.facebook.com/braziljs?group_id
 * http://barserafim.com.br/
 * http://www.cameronsworld.net/
 * http://daltony.com.br/
+* http://chucknorris.com/
